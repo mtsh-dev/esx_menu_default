@@ -1,5 +1,4 @@
 # esx_menu_default
 ESX Menu Default
 
-
-<img src"https://imgur.com/Nen6KXz"</img>
+![alt text]([http://url/to/img.png](https://imgur.com/Nen6KXz))
